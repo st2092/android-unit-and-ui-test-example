@@ -1,0 +1,7 @@
+id=disneyland
+name=Disneyland
+
+1313 Disneyland Dr
+Anaheim, CA 92802
+
+Disneyland Park, originally Disneyland, is the first of two theme parks built at the Disneyland Resort in Anaheim, California, opened on July 17, 1955. It is the only theme park designed and built under the direct supervision of Walt Disney

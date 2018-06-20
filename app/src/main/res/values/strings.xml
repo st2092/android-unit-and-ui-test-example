@@ -2,4 +2,5 @@
     <string name="app_name">BD Unit Test Example</string>
     <string name="show_disneyland_info">Show Disneyland Info</string>
     <string name="default_message">Press the button to find out about Disneyland!</string>
+    <string name="error_message">Can\'t find specified place</string>
 </resources>
